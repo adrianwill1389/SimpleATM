@@ -1,0 +1,11 @@
+
+	Amount debited: $1002.0	Date: 2025:03:08 - 21:59:30
+	Amount credited: $500000.0	Date: 2025:03:08 - 21:59:30
+	Amount debited: $42.0	Date: 2025:03:08 - 22:16:07
+	Amount credited: $40000.0	Date: 2025:03:08 - 22:16:07
+	Amount debited: $6002.0	Date: 2025:03:08 - 22:16:07
+	Amount credited: $100000.0	Date: 2025:03:08 - 22:16:07
+	Amount debited: $302.0	Date: 2025:03:08 - 22:18:55
+	Amount credited: $90000.0	Date: 2025:03:08 - 22:18:55
+	Amount debited: $402.0	Date: 2025:03:08 - 22:18:55
+	Amount credited: $7000.0	Date: 2025:03:08 - 22:18:55
